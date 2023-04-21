@@ -1,1 +1,1 @@
-FROM docker.io/jenkins/jenkins:2.387.2
+FROM docker.io/jenkins:2.387.2
